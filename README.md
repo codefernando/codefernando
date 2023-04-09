@@ -16,4 +16,4 @@
 <img aling="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img aling="center" alt="react.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img aling="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img aling="center" alt="express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
+<img aling="center" alt="express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
