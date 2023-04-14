@@ -5,7 +5,7 @@
 ### treinar e estudar.
 ---
 ### Sou apaixonado por desenvolvimento web.
-### Espero que gostem obrigado.
+
 ---
 ### Técnologias que eu uso nas minhas paginas desenvolvidas. 
 
